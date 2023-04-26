@@ -1,0 +1,22 @@
+CODE	DESCRIPTION
+0	9E	Endeavor Air Inc.
+1	AA	American Airlines Inc.
+2	AS	Alaska Airlines Inc.
+3	B6	JetBlue Airways
+4	C5	CommuteAir LLC dba CommuteAir
+5	DL	Delta Air Lines Inc.
+6	F9	Frontier Airlines Inc.
+7	G4	Allegiant Air
+8	G7	GoJet Airlines LLC d/b/a United Express
+9	HA	Hawaiian Airlines Inc.
+10	MQ	Envoy Air
+11	NK	Spirit Air Lines
+12	OH	PSA Airlines Inc.
+13	OO	SkyWest Airlines Inc.
+14	PT	Piedmont Airlines
+15	QX	Horizon Air
+16	UA	United Air Lines Inc.
+17	WN	Southwest Airlines Co.
+18	YV	Mesa Airlines Inc.
+19	YX	Republic Airline
+20	ZW	Air Wisconsin Airlines Corp
